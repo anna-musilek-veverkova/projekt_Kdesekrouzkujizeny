@@ -5,3 +5,5 @@ Jaký je vliv prostředí a demografie na politické zastoupení žen? Cílem pr
 Pracujeme s daty z Českého statistického úřadu (výsledky voleb a Sčítání lidu, bytů a domů z roku 2021), daty z PAQ Research, daty z Registru územní identifikace, adres a nemovitostí, Národní registr poskytovatelů zdravotních služeb, MŠMT a Registr ekonomických subjektů.
 
 Použité nástroje: Keboola, SQL, Snowflake, VS code, Python (Pandas, Juypter, Geopandas, folium), PowerBI, AI
+
+Projekt je závěrečnou prací k Digitální Akademie - data od Czechitas.
